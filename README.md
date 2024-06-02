@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paingthuyakyaw
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning FullStack Development
 - 💞️ I’m currently woring in Xsphere 
 
 
